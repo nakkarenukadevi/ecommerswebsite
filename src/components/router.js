@@ -13,14 +13,15 @@ let router = createBrowserRouter([
         path: "/",
         element: <App />,
         children: [
+
             {
                 path: "/",
                 element: <Home />
             },
-            {
-                path: "females",
-                element: <Feamales />,
 
+            {
+                path: "Females",
+                element: <Feamales />,
 
             }
             ,
@@ -42,7 +43,7 @@ let router = createBrowserRouter([
             }
             ,
             {
-                path: "productData",
+                path: "Females/productData/:id",
                 element: <ProductData />
             }
 

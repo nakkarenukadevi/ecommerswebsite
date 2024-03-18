@@ -6,14 +6,9 @@ import { initialData } from './store/ProductSlice';
 import Product from './Product';
 
 const Home = () => {
-
-
     let dispatch = useDispatch();
 
     dispatch(initialData(mockdata.Prodcutdata))
-
-
-
     return (
         <>
             Home
