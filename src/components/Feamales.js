@@ -1,28 +1,25 @@
-import React from 'react'
+// import React from 'react'
+// import { Link, useLocation } from 'react-router-dom';
+// import { useSelector, useDispatch } from 'react-redux';
 
-import Product from './Product';
-import { Link } from 'react-router-dom';
-import { useSelector, useDispatch } from 'react-redux';
-
-import mockdata from "../mockdata.json"
-import { initialData } from './store/ProductSlice';
+// import mockdata from "../mockdata.json"
+// import { initialData } from './store/ProductSlice';
+// import Sarees from './Sarees';
 
 
-const Feamales = () => {
+// const Feamales = () => {
 
-    // let dispatch = useDispatch();
 
-    // dispatch(initialData(mockdata.Prodcutdata))
-    let Storedata = useSelector((state) => state.product.data);
+//     let Storedata = useSelector((state) => state.product.data);
 
-    return (
+//     return (
 
-        <div className='py-10 grid grid-cols-6 gap-4 mx-auto' >{Storedata.Females.sarees.map((item) => {
-            return <Link to={"productData/" + item.id}><div key={item.id}><Product item={item} /></div></Link>
+//         <div className='py-10 grid grid-cols-6 gap-4 ' >{Storedata.Females.sarees.map((item) => {
+//             return <Link to={"sarees/" + item.id}><div className='mt-20' key={item.id}><Sarees item={item} /></div></Link>
 
-        })}</div>
+//         })}</div>
 
-    )
-}
+//     )
+// }
 
-export default Feamales
+// export default Feamales
