@@ -18,18 +18,11 @@ const Header = () => {
     let femalesCatageries = Object.keys(data.Females)
 
     const showPrdocut = () => {
-        setProductListPop(!productListPop)
+        setProductPop(!productPop)
     }
     const gotopage = (cata) => {
+        navigate(`${cata}`)
 
-        setProductPop(!productPop)
-        let x = catageriName.filter((item) => {
-            if (item == cata) {
-                return true
-            } else return false
-        })
-        console.log(x);
-        navigate("")
 
     }
     const gotoProductpage = (cat) => {
@@ -63,15 +56,15 @@ const Header = () => {
 
 
         </div>
-        {productListPop ? <div className='absolute top-20 left-0 z-50 px-10 py-2 bg-red-800 p-20 font-bold text-white'>
+        {/* {productListPop ? <div className='absolute top-20 left-0 z-50 px-10 py-2 bg-red-800 p-20 font-bold text-white'>
             <div>{catageriName.map((cata) => {
 
                 return < div className='mt-3 px-8 py-3 bg-white rounded-lg text-black' key={cata.id} onClick={() => gotopage(cata)} > {cata}</div>
             })}</div>
 
         </div > : null
-        }
-        {productPop ? <div className='relative top-24 left-52 z-50 px-10 py-2 bg-red-800 p-20 font-bold text-white w-56'>
+        } */}
+        {productPop ? <div className='absolute top-20 left-0 z-50 px-10 py-2 bg-red-800 p-20 font-bold text-white'>
             <div> <div>{femalesCatageries.map((cat) => {
                 console.log(cat)
                 return < div className='mt-3 px-8 py-3 bg-white rounded-lg text-black' onClick={() => gotoProductpage(cat)} > {cat}</div>
