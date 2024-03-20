@@ -9,6 +9,8 @@ import Shirt from "./Shirt";
 import SareesData from "./SareesData";
 import Cart from "./Cart/Cart";
 import Sarees from "./Sarees";
+import Dress from "./Dress";
+
 
 
 let router = createBrowserRouter([
@@ -22,12 +24,7 @@ let router = createBrowserRouter([
                 element: <Home />
             },
 
-            // {
-            //     path: "Females",
-            //     element: <Feamales />,
 
-            // }
-            ,
             {
                 path: "gents",
                 element: <Gents />
@@ -37,8 +34,12 @@ let router = createBrowserRouter([
                 element: <Kids />
             },
             {
-                path: "sarees",
+                path: "/sarees",
                 element: <Sarees />
+            },
+            {
+                path: "/dress",
+                element: <Dress />
             },
             {
                 path: "shrit",
