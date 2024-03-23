@@ -5,6 +5,7 @@ import mockdata from "../mockdata.json"
 import { initialData } from './store/ProductSlice';
 import Sarees from './Sarees';
 import Gents from './Gents';
+import Shirt from './Shirt';
 
 
 const Home = () => {
@@ -15,7 +16,7 @@ const Home = () => {
         <div className='mt-10'>
 
 
-            <Gents />
+            <Shirt />
 
         </div>
     )

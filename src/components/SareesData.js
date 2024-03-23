@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { useSelector, useDispatch } from 'react-redux';
 import { useParams } from 'react-router-dom'
 import { addtocart } from './store/ProductSlice';
@@ -8,7 +8,7 @@ const SareesData = () => {
     let parmas = useParams();
     let { Cart, data } = useSelector((state) => state.product);
     let dispatch = useDispatch()
-    console.log(data)
+
 
     let singleProductdata = data.Females.sarees.filter((item) => {
         if (item.id == parmas.id) {
@@ -19,11 +19,29 @@ const SareesData = () => {
         }
 
     });
+
     const handleaddcartItem = (item) => {
+        let item1 = item;
 
+        let filtercart;
+        if (Cart.length > 0) {
+            Cart.find((citem) => {
+                if (citem.id == item1.id) {
+                    let citem1 = citem
+                    citem1 = { ...citem, Qty: citem.Qty + 1 }
 
-        dispatch(addtocart(item))
+                    filtercart = citem1
+
+                } else {
+                    filtercart = item1
+                }
+
+            });
+            dispatch(addtocart(filtercart))
+
+        };
     }
+
 
     let ProductdetailsKeys = Object.keys(singleProductdata[0].Productdetails);
     let ProductdetailsValus = Object.values(singleProductdata[0].Productdetails);
@@ -36,7 +54,7 @@ const SareesData = () => {
     return (
         <div>{singleProductdata.map((item, index) => {
 
-            return <div className='flex justify-center mt-40 mb-28 ' key={index}>
+            return <div className='flex justify-center mt-40 mb-28 ' key={item.id}>
                 <div className='mx-10'>
                     <div>{<img src={item.image} alt="sareeimage" style={{ width: "500px", height: "500px" }} className='fixed left-4' />}</div>
                 </div>

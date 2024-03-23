@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "../App";
 import Home from "./Home";
-import Feamales from "./Feamales";
+
 import Gents from "./Gents";
 import Kids from "./Kids";
 
@@ -10,6 +10,8 @@ import SareesData from "./SareesData";
 import Cart from "./Cart/Cart";
 import Sarees from "./Sarees";
 import Dress from "./Dress";
+import Tops from "./Tops";
+import Tshirt from "./Tshirt";
 
 
 
@@ -42,8 +44,16 @@ let router = createBrowserRouter([
                 element: <Dress />
             },
             {
-                path: "shrit",
+                path: "/tops",
+                element: <Tops />
+            },
+            {
+                path: "shrits",
                 element: <Shirt />
+            },
+            {
+                path: "Tshrit",
+                element: <Tshirt />
             }
             ,
             {

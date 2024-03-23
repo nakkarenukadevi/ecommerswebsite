@@ -7,7 +7,7 @@
                     "price": 600,
                     "image": "https://m.media-amazon.com/images/I/51kU7xQjC6L._SY606_.jpg",
                     "name": "Satrani Women's Silk Blend Printed & Foil Printed Saree with Unstitched Blouse Piece",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -29,7 +29,7 @@
                     "price": 600,
                     "image": "https://m.media-amazon.com/images/I/81kw4Y0pfQL._SY679_.jpg",
                     "name": "Satrani Women's Silk Blend Printed & Foil Printed Saree with Unstitched Blouse Piece",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -51,7 +51,7 @@
                     "price": 600,
                     "image": "https://m.media-amazon.com/images/I/81YgD2cpl3L._SY679_.jpg",
                     "name": "Satrani Women's Silk Blend Saree (3380S375N_Yellow)",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -73,7 +73,7 @@
                     "price": 1000,
                     "image": "https://m.media-amazon.com/images/I/81Go5tn2-6L._SY679_.jpg",
                     "name": "Glory Sarees Women's Banarasi Silk Saree With Blouse Piece",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -95,7 +95,7 @@
                     "price": 648,
                     "image": "https://m.media-amazon.com/images/I/41ykC0f0VTL.jpg",
                     "name": "C J Enterprise Women's Pure Kanjivaram Silk Saree Banarasi Silk Saree With Blouse Piece (paithani Pari122)",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -117,7 +117,7 @@
                     "price": 899,
                     "image": "https://m.media-amazon.com/images/I/61clOn-YIkL._SX569_.jpg",
                     "name": "SGF11- Women's Kanjivaram Woven Soft Silk Saree With Blouse Piece",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -139,7 +139,7 @@
                     "price": 469,
                     "image": "https://m.media-amazon.com/images/I/51bvr+2O4EL._SY679_.jpg",
                     "name": "Avantika Fashion Women's Cotton Linen Saree With Blouse Piece",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -161,7 +161,7 @@
                     "price": 600,
                     "image": "https://m.media-amazon.com/images/I/71p1A2-4fhL._SX522_.jpg",
                     "name": "SIRIL Women's Jacquard Art Silk Saree with Unstitched Blouse Piece",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -183,7 +183,7 @@
                     "price": 470,
                     "image": "https://m.media-amazon.com/images/I/81bBlZ6lx4L._SX522_.jpg",
                     "name": "SIRIL Women's Poly Cotton Geometric Printed Saree With Unstitched Blouse Piece",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -205,7 +205,7 @@
                     "price": 500,
                     "image": "https://m.media-amazon.com/images/I/8104W73Lt6L._SY679_.jpg",
                     "name": "C J Enterprise Women's Soft Pure Kanjivaram Silk Saree for Wedding With Blouse Piece (Pari159 paithani)",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -227,7 +227,7 @@
                     "price": 270,
                     "image": "https://m.media-amazon.com/images/I/71ujfyYmyjL._SY679_.jpg",
                     "name": "SICHI Women'S Printed Poly Silk Saree With Unstitched Blouse Piece",
-                    "length": 1,
+                    "Qty": 1,
                     "Productdetails": {
                         "Material composition": "silk Blend",
                         "Length": "6 yards",
@@ -279,9 +279,9 @@
                 },
                 {
                     "id": 2,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
+                    "name": "Levi's Men's Slim Fit Solid Shirt",
                     "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "image": "https://m.media-amazon.com/images/I/51xYpPeNJjL._SX679_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -294,9 +294,9 @@
                 },
                 {
                     "id": 3,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
-                    "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "name": "Ethazh Men's Chinese Collar Casual Shirt | Regular Fit Cotton Full Sleeve Casual Shirt for Men | Mandarin Collar Shirt",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/41rRfOv6iuL._SX679_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -309,9 +309,9 @@
                 },
                 {
                     "id": 4,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
-                    "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "name": "Men's Checkered Regular Fit Casual Shirt",
+                    "price": 500,
+                    "image": "https://m.media-amazon.com/images/I/81LCoJQzQzL._SX522_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -324,9 +324,9 @@
                 },
                 {
                     "id": 5,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
+                    "name": " Men's Regular Fit Casual Shirt (Pack of 2)",
                     "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "image": "https://m.media-amazon.com/images/I/71gjfehMwHL._SX522_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -339,9 +339,9 @@
                 },
                 {
                     "id": 6,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
-                    "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "name": "ETHAZH Ethnic Half Sleeve Silk Shirt for Men",
+                    "price": 665,
+                    "image": "https://m.media-amazon.com/images/I/415yf430a-L._SY679_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -354,9 +354,9 @@
                 },
                 {
                     "id": 7,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
-                    "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "name": "DEELMO Men's Cotton Blend Mandarin Collar Self One Design Full Sleeve Casual Short Kurta",
+                    "price": 816,
+                    "image": "https://m.media-amazon.com/images/I/51qsrnW+d0L._SX679_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -369,9 +369,9 @@
                 },
                 {
                     "id": 8,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
-                    "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "name": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt (Rib-Shirt)",
+                    "price": 479,
+                    "image": "https://m.media-amazon.com/images/I/71V5gEc8YVL._SY741_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -384,9 +384,9 @@
                 },
                 {
                     "id": 9,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
-                    "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "name": "Jack & Jones Men's Floral Print Regular Fit Spread-Collar Casual Shirt",
+                    "price": 1080,
+                    "image": "https://m.media-amazon.com/images/I/61avgPkYa5L._SY741_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -399,9 +399,9 @@
                 },
                 {
                     "id": 10,
-                    "name": "UNITED COLORS OF BENETTON Men's Regular Fit Spread Collar Solid Shirt",
-                    "price": 1500,
-                    "image": "https://m.media-amazon.com/images/I/61R7pFYPobL._SX679_.jpg",
+                    "name": "Symbol Men's Regular Fit Casual Shirt",
+                    "price": 600,
+                    "image": "https://m.media-amazon.com/images/I/71Y6-7uLecL._SX569_.jpg",
                     "Product details": {
                         "Material": " compositionCotton",
                         "Pattern": "Solid",
@@ -409,6 +409,370 @@
                         "Sleeve type": "Long Sleeve",
                         "Collar style": "Spread Collar",
                         "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                }
+            ],
+            "tshirts": [
+                {
+                    "id": 1,
+                    "name": "jorden4u Men's Regular Fit Polo Neck Half Sleeve Soild Casual T-Shirt | Polo T-Shirt for Men",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/61LGK3HAm3L._SY741_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "WILD CITY - Style and Comfort Printed Men's Round Neck Cotton Lycra Stretchable Super Comfortable Short Sleeve T-Shirts",
+                    "price": 850,
+                    "image": "https://m.media-amazon.com/images/I/61Xe0ZRyW6L._SX679_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Ethazh Men's Chinese Collar Casual Shirt | Regular Fit Cotton Full Sleeve Casual Shirt for Men | Mandarin Collar Shirt",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/81fZeF8IGIL._SY679_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Allen Solly Men's Regular Fit Polo",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/71eUwDk8z+L._SX569_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "BULLMER Black Trendy Front and Back Printed Oversized Round Neck T-Shirt for Men",
+                    "price": 289,
+                    "image": "https://m.media-amazon.com/images/I/612Rl6GKHoL._SX679_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "AUSK T-Shirt for Mens Double Stripes on Chest",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/81wFLUDzAbL._SY741_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "EYEBOGLER Men's Trendy Polo Neck Half Sleeves Regular Fit Checkered T-Shirt",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/51BQpqMPIaL._SX569_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "Lymio Men T-Shirt || T-Shirt for Men || Plain T Shirt || T-Shirt (Rib)",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/71AEwEupFuL._SY741_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "FANCODE Punjab Kings Men White Printed Polo Collared T-Shirt",
+                    "price": 890,
+                    "image": "https://m.media-amazon.com/images/I/61bVn5yw5EL._SX679_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "U.S. POLO ASSN. Long Sleeve LE006 Lounge T-Shirt - Pack of 1",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/61AmLhmIIDL._SX569_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 11,
+                    "name": "EYEBOGLER Men's Striped Regular fit T-Shirt (T285HS_White Darknavy Indigo Royal S) EYEBOGLERMenRegularT-Shirt",
+                    "price": 247,
+                    "image": "https://m.media-amazon.com/images/I/61NzmmNu6nL._SX569_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 12,
+                    "name": "Lymio Men T-Shirt || T-Shirt for Men || Plain T Shirt || T-Shirt (Polo-06-10)",
+                    "price": 350,
+                    "image": "https://m.media-amazon.com/images/I/71kUxej0QhL._SY741_.jpg",
+                    "Product details": {
+                        "Material": " compositionCotton",
+                        "Pattern": "Solid",
+                        "Fit type": "Regular Fit",
+                        "Sleeve type": "Long Sleeve",
+                        "Collar style": "Spread Collar",
+                        "Length": "Standard Length",
+                        "Country of Origin": "India"
+                    }
+                }
+            ],
+            "geans": [
+                {
+                    "id": 1,
+                    "name": "Symbol Men's Cotton Lycra Stretchable Jeans",
+                    "price": 590,
+                    "image": "https://m.media-amazon.com/images/I/71iKuCNGVWL._SX569_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Urbano Fashion Men's Slim Fit Black Stretch Jeans",
+                    "price": 587,
+                    "image": "https://m.media-amazon.com/images/I/61MnQqLAVOL._SX679_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Campus Sutra Men’s Classic Blue Dark-Washed Regular Fit Denim Jeans with Drawstring Premium Stretchable Cotton Mid-Rise Crafted with Comfort Fit and High Performance for Everyday Wear",
+                    "price": 590,
+                    "image": "https://m.media-amazon.com/images/I/61ZGXTSfA3L._SX679_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Neostreak Men's Slim Fit Stretchable Jeans",
+                    "price": 590,
+                    "image": "https://m.media-amazon.com/images/I/81S++MvcavL._SX569_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Urbano Fashion Men's Slim Fit Jogger Jeans Stretch",
+                    "price": 590,
+                    "image": "https://m.media-amazon.com/images/I/71J5v1vrKaL._SX679_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "",
+                    "price": 721,
+                    "image": "",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "Urbano Fashion Men's Jogger Jeans Slim Fit Stretch",
+                    "price": 693,
+                    "image": "https://m.media-amazon.com/images/I/61DzS5aOy4L._SX679_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": " Men's Cotton Rich Stretchable Jeans",
+                    "price": 590,
+                    "image": "https://m.media-amazon.com/images/I/71PHcwlCj8L._SX569_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "Campus Sutra Men's Regular Fit Denim Jeans",
+                    "price": 645,
+                    "image": "https://m.media-amazon.com/images/I/51PAjY776nL._SX679_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "Symbol Men's Relaxed Fit Stretch Jeans",
+                    "price": 620,
+                    "image": "https://m.media-amazon.com/images/I/81MllLDQcsL._SX569_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 11,
+                    "name": "Neostreak Men's Slim Fit Jeans",
+                    "price": 790,
+                    "image": "https://m.media-amazon.com/images/I/715ZudbhA9L._SX679_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
+                        "Country of Origin": "India"
+                    }
+                },
+                {
+                    "id": 12,
+                    "name": " Symbol Men's Cotton Lycra Stretchable Jeans",
+                    "price": 590,
+                    "image": "https://m.media-amazon.com/images/I/81FegapjCuL._SX569_.jpg",
+                    "Product details": {
+                        "Material type": "Cotton Blend",
+                        "Length": " StandardLength",
+                        "Style": "Relaxed",
+                        "Closure type": "Zipper",
+                        "Occasion type": "Casual",
+                        "Care instructions": "Wash separately, machine wash cold, gentle cycle, only non chlorine bleach when needed, tumble dry low, warm iron if needed",
                         "Country of Origin": "India"
                     }
                 }
