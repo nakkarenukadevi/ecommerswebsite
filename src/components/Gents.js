@@ -1,6 +1,6 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
-import Shirt from './Shirt'
+import Shirt from './shirts/Shirt'
 
 
 const Gents = () => {
